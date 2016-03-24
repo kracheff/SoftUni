@@ -1,0 +1,8 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\bin\Debug\03CheckForPlayCard.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\bin\Debug\03CheckForPlayCard.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\bin\Debug\03CheckForPlayCard.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\obj\Debug\03CheckForPlayCard.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\obj\Debug\03CheckForPlayCard.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\bin\Debug\03CheckForPlayCard.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\obj\Debug\03CheckForPlayCard.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\03CheckForPlayCard\obj\Debug\03CheckForPlayCard.pdb

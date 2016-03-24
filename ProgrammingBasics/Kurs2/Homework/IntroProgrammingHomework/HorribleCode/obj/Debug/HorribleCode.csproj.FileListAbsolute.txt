@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HorribleCode\bin\Debug\HorribleCode.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HorribleCode\bin\Debug\HorribleCode.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HorribleCode\bin\Debug\HorribleCode.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HorribleCode\obj\Debug\HorribleCode.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HorribleCode\obj\Debug\HorribleCode.pdb

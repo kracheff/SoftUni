@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3\LiveLiveDemo\bin\Debug\LiveLiveDemo.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3\LiveLiveDemo\obj\Debug\LiveLiveDemo.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3\LiveLiveDemo\bin\Debug\LiveLiveDemo.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3\LiveLiveDemo\bin\Debug\LiveLiveDemo.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3\LiveLiveDemo\obj\Debug\LiveLiveDemo.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3\LiveLiveDemo\obj\Debug\LiveLiveDemo.pdb

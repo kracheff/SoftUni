@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.pdb

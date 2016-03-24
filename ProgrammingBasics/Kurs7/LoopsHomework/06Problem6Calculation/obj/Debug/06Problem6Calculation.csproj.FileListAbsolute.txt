@@ -1,0 +1,8 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\bin\Debug\06Problem6Calculation.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\bin\Debug\06Problem6Calculation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\bin\Debug\06Problem6Calculation.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\obj\Debug\06Problem6Calculation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\obj\Debug\06Problem6Calculation.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\bin\Debug\06Problem6Calculation.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\obj\Debug\06Problem6Calculation.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\06Problem6Calculation\obj\Debug\06Problem6Calculation.pdb

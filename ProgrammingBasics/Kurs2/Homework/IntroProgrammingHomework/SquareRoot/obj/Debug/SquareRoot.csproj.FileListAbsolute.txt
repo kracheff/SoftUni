@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\SquareRoot\obj\Debug\SquareRoot.pdb

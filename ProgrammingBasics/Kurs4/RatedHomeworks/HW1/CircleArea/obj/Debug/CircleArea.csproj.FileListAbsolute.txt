@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CircleArea\obj\Debug\CircleArea.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CircleArea\obj\Debug\CircleArea.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CircleArea\bin\Debug\CircleArea.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CircleArea\obj\Debug\CircleArea.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CircleArea\obj\Debug\CircleArea.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CircleArea\bin\Debug\CircleArea.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CircleArea\bin\Debug\CircleArea.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CircleArea\obj\Debug\CircleArea.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

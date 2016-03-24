@@ -1,0 +1,9 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\7.CalculateNFactoriel_KFactoriel\bin\Debug\7.CalculateNFactoriel_KFactoriel.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\7.CalculateNFactoriel_KFactoriel\bin\Debug\7.CalculateNFactoriel_KFactoriel.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\7.CalculateNFactoriel_KFactoriel\bin\Debug\7.CalculateNFactoriel_KFactoriel.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\7.CalculateNFactoriel_KFactoriel\obj\Debug\7.CalculateNFactoriel_KFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\7.CalculateNFactoriel_KFactoriel\obj\Debug\7.CalculateNFactoriel_KFactoriel.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\7.CalculateNFactoriel_KFactoriel\obj\Debug\7.CalculateNFactoriel_KFactoriel.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\7.CalculateNFactoriel_KFactoriel\bin\Debug\7.CalculateNFactoriel_KFactoriel.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\7.CalculateNFactoriel_KFactoriel\obj\Debug\7.CalculateNFactoriel_KFactoriel.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\7.CalculateNFactoriel_KFactoriel\obj\Debug\7.CalculateNFactoriel_KFactoriel.pdb

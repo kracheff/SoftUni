@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\obj\Debug\06QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\06QuadraticEquation\obj\Debug\06QuadraticEquation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\03LastDigit\bin\Debug\03LastDigit.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\03LastDigit\bin\Debug\03LastDigit.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\03LastDigit\bin\Debug\03LastDigit.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\03LastDigit\obj\Debug\03LastDigit.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\03LastDigit\obj\Debug\03LastDigit.pdb

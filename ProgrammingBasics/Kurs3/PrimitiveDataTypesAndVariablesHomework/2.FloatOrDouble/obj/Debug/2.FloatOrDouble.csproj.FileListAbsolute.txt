@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.pdb

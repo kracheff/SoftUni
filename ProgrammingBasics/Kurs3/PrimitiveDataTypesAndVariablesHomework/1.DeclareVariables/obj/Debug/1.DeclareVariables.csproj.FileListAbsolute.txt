@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

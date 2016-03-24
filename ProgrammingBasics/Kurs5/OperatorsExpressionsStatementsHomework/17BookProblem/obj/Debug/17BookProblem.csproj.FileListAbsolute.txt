@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.csprojResolveAssemblyReference.cache

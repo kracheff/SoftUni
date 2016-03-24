@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\MasterHerbalist\bin\Debug\MasterHerbalist.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\MasterHerbalist\bin\Debug\MasterHerbalist.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\MasterHerbalist\bin\Debug\MasterHerbalist.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\MasterHerbalist\obj\Debug\MasterHerbalist.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\MasterHerbalist\obj\Debug\MasterHerbalist.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\MasterHerbalist\obj\Debug\MasterHerbalist.pdb

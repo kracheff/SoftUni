@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\01Average\bin\Debug\01Average.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\01Average\bin\Debug\01Average.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\01Average\bin\Debug\01Average.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\01Average\obj\Debug\01Average.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\01Average\obj\Debug\01Average.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\01Average\obj\Debug\01Average.pdb

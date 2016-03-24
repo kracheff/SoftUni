@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfBits\bin\Debug\GameOfBits.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfBits\bin\Debug\GameOfBits.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfBits\bin\Debug\GameOfBits.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfBits\obj\Debug\GameOfBits.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfBits\obj\Debug\GameOfBits.pdb

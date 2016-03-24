@@ -1,0 +1,11 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Numbers\bin\Debug\Numbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Numbers\obj\Debug\Numbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Numbers\obj\Debug\Numbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Numbers\bin\Debug\Numbers.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Numbers\obj\Debug\Numbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Numbers\obj\Debug\Numbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Numbers\bin\Debug\Numbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Numbers\bin\Debug\Numbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache

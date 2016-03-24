@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\20ProgrammerDNA\obj\Debug\20ProgrammerDNA.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\20ProgrammerDNA\obj\Debug\20ProgrammerDNA.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\20ProgrammerDNA\obj\Debug\20ProgrammerDNA.pdb

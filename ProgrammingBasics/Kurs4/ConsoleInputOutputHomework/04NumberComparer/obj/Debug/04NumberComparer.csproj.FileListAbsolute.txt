@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\04NumberComparer\bin\Debug\04NumberComparer.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\04NumberComparer\bin\Debug\04NumberComparer.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\04NumberComparer\obj\Debug\04NumberComparer.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\04NumberComparer\obj\Debug\04NumberComparer.pdb

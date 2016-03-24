@@ -1,0 +1,8 @@
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\1\Homework-Operators and Expressions-102887\Operators\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\1\Homework-Operators and Expressions-102887\Operators\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\1\Homework-Operators and Expressions-102887\Operators\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

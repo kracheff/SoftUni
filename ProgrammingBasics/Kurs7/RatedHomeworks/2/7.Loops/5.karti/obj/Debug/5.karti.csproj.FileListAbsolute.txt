@@ -1,0 +1,5 @@
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\5.karti\bin\Debug\5.karti.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\5.karti\bin\Debug\5.karti.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\5.karti\bin\Debug\5.karti.pdb
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\5.karti\obj\Debug\5.karti.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\5.karti\obj\Debug\5.karti.pdb

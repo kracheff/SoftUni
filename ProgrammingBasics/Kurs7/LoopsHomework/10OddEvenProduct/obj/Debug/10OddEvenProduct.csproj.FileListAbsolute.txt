@@ -1,0 +1,11 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\bin\Debug\10OddEvenProduct.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\10OddEvenProduct\obj\Debug\10OddEvenProduct.csprojResolveAssemblyReference.cache

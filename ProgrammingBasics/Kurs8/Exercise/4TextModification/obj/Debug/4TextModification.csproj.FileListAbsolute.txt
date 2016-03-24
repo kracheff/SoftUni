@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\4TextModification\bin\Debug\4TextModification.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\4TextModification\bin\Debug\4TextModification.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\4TextModification\bin\Debug\4TextModification.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\4TextModification\obj\Debug\4TextModification.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\4TextModification\obj\Debug\4TextModification.pdb

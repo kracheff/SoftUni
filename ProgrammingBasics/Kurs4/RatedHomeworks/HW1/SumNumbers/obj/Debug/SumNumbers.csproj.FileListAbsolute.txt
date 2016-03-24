@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumNumbers\obj\Debug\SumNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumNumbers\obj\Debug\SumNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumNumbers\obj\Debug\SumNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumNumbers\obj\Debug\SumNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumNumbers\bin\Debug\SumNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumNumbers\obj\Debug\SumNumbers.csprojResolveAssemblyReference.cache

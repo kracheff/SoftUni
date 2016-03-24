@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\bin\Debug\10BeerTime.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\bin\Debug\10BeerTime.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\bin\Debug\10BeerTime.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\bin\Debug\10BeerTime.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\obj\Debug\10BeerTime.csprojResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\obj\Debug\10BeerTime.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\obj\Debug\10BeerTime.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\obj\Debug\10BeerTime.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\obj\Debug\10BeerTime.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\bin\Debug\10BeerTime.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\bin\Debug\10BeerTime.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\10BeerTime\obj\Debug\10BeerTime.csprojResolveAssemblyReference.cache

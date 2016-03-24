@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\bin\Debug\11NumberAsWords.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\obj\Debug\11NumberAsWords.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\bin\Debug\11NumberAsWords.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\bin\Debug\11NumberAsWords.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\obj\Debug\11NumberAsWords.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\obj\Debug\11NumberAsWords.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\bin\Debug\11NumberAsWords.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\obj\Debug\11NumberAsWords.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\11NumberAsWords\obj\Debug\11NumberAsWords.pdb

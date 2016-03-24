@@ -1,0 +1,9 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.pdb

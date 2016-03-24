@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\11CountOfLetters\bin\Debug\11CountOfLetters.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\11CountOfLetters\bin\Debug\11CountOfLetters.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\11CountOfLetters\bin\Debug\11CountOfLetters.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\11CountOfLetters\obj\Debug\11CountOfLetters.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\11CountOfLetters\obj\Debug\11CountOfLetters.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\11CountOfLetters\obj\Debug\11CountOfLetters.pdb

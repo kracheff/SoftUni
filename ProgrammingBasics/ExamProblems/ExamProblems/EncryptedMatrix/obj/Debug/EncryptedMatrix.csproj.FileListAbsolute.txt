@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\EncryptedMatrix\bin\Debug\EncryptedMatrix.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\EncryptedMatrix\obj\Debug\EncryptedMatrix.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\EncryptedMatrix\obj\Debug\EncryptedMatrix.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\EncryptedMatrix\obj\Debug\EncryptedMatrix.pdb

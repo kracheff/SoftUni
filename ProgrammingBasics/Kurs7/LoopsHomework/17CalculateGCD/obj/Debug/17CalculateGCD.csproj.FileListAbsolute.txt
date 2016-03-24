@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\17CalculateGCD\bin\Debug\17CalculateGCD.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\17CalculateGCD\bin\Debug\17CalculateGCD.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\17CalculateGCD\bin\Debug\17CalculateGCD.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\17CalculateGCD\obj\Debug\17CalculateGCD.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\17CalculateGCD\obj\Debug\17CalculateGCD.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\17CalculateGCD\obj\Debug\17CalculateGCD.pdb

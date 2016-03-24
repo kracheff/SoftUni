@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputExercise\PrintingToTheConsole\bin\Debug\PrintingToTheConsole.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputExercise\PrintingToTheConsole\bin\Debug\PrintingToTheConsole.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputExercise\PrintingToTheConsole\bin\Debug\PrintingToTheConsole.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputExercise\PrintingToTheConsole\obj\Debug\PrintingToTheConsole.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputExercise\PrintingToTheConsole\obj\Debug\PrintingToTheConsole.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputExercise\PrintingToTheConsole\obj\Debug\PrintingToTheConsole.pdb

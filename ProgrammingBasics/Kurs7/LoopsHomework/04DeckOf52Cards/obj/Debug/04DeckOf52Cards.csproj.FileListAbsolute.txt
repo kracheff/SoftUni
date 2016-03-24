@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\bin\Debug\04DeckOf52Cards.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\obj\Debug\04DeckOf52Cards.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\bin\Debug\04DeckOf52Cards.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\bin\Debug\04DeckOf52Cards.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\obj\Debug\04DeckOf52Cards.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\obj\Debug\04DeckOf52Cards.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\bin\Debug\04DeckOf52Cards.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\obj\Debug\04DeckOf52Cards.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\04DeckOf52Cards\obj\Debug\04DeckOf52Cards.pdb

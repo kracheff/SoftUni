@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.pdb

@@ -1,0 +1,1 @@
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config

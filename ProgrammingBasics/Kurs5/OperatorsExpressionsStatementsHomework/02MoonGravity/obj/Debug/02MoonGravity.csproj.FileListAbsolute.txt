@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\02MoonGravity\bin\Debug\02MoonGravity.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\02MoonGravity\bin\Debug\02MoonGravity.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\02MoonGravity\bin\Debug\02MoonGravity.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\02MoonGravity\obj\Debug\02MoonGravity.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\02MoonGravity\obj\Debug\02MoonGravity.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.pdb

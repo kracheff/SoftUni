@@ -1,0 +1,4 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\StringLiterals\bin\Debug\StringLiterals.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\StringLiterals\bin\Debug\StringLiterals.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\StringLiterals\obj\Debug\StringLiterals.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\StringLiterals\obj\Debug\StringLiterals.pdb

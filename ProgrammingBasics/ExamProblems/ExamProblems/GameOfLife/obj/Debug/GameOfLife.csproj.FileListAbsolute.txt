@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfLife\bin\Debug\GameOfLife.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\GameOfLife\obj\Debug\GameOfLife.pdb

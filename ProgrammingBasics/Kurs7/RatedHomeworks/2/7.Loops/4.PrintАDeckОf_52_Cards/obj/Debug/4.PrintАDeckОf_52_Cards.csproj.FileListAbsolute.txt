@@ -1,0 +1,9 @@
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\4.PrintАDeckОf_52_Cards\bin\Debug\4.PrintАDeckОf_52_Cards.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\4.PrintАDeckОf_52_Cards\bin\Debug\4.PrintАDeckОf_52_Cards.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\4.PrintАDeckОf_52_Cards\bin\Debug\4.PrintАDeckОf_52_Cards.pdb
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\4.PrintАDeckОf_52_Cards\obj\Debug\4.PrintАDeckОf_52_Cards.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\4.PrintАDeckОf_52_Cards\obj\Debug\4.PrintАDeckОf_52_Cards.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\4.PrintАDeckОf_52_Cards\obj\Debug\4.PrintАDeckОf_52_Cards.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\4.PrintАDeckОf_52_Cards\bin\Debug\4.PrintАDeckОf_52_Cards.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\4.PrintАDeckОf_52_Cards\obj\Debug\4.PrintАDeckОf_52_Cards.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\4.PrintАDeckОf_52_Cards\obj\Debug\4.PrintАDeckОf_52_Cards.pdb

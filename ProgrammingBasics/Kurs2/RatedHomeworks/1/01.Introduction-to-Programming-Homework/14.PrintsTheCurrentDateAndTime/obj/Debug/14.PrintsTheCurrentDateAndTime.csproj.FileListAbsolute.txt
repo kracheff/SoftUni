@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\bin\Debug\14.PrintsTheCurrentDateAndTime.exe.config
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\bin\Debug\14.PrintsTheCurrentDateAndTime.exe
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\bin\Debug\14.PrintsTheCurrentDateAndTime.pdb
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\obj\Debug\14.PrintsTheCurrentDateAndTime.exe
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\obj\Debug\14.PrintsTheCurrentDateAndTime.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\bin\Debug\14.PrintsTheCurrentDateAndTime.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\obj\Debug\14.PrintsTheCurrentDateAndTime.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\14.PrintsTheCurrentDateAndTime\obj\Debug\14.PrintsTheCurrentDateAndTime.pdb

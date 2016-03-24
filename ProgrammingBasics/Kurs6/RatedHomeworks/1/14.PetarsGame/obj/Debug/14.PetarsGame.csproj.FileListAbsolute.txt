@@ -1,0 +1,12 @@
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\14.PetarsGame\bin\Debug\14.PetarsGame.exe.config
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\14.PetarsGame\obj\Debug\14.PetarsGame.csprojResolveAssemblyReference.cache
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\14.PetarsGame\bin\Debug\14.PetarsGame.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\14.PetarsGame\bin\Debug\14.PetarsGame.pdb
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\14.PetarsGame\obj\Debug\14.PetarsGame.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\14.PetarsGame\obj\Debug\14.PetarsGame.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\14.PetarsGame\bin\Debug\14.PetarsGame.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\14.PetarsGame\obj\Debug\14.PetarsGame.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\14.PetarsGame\obj\Debug\14.PetarsGame.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\14.PetarsGame\bin\Debug\14.PetarsGame.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\14.PetarsGame\bin\Debug\14.PetarsGame.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\14.PetarsGame\obj\Debug\14.PetarsGame.csprojResolveAssemblyReference.cache

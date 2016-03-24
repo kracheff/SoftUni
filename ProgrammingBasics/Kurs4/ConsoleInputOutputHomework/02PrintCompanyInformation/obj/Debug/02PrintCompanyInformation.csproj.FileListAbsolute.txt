@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.pdb

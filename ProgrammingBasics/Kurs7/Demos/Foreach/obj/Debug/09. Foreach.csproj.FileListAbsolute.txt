@@ -1,0 +1,5 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\Demos\Foreach\bin\Debug\Foreach.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\Demos\Foreach\bin\Debug\Foreach.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\Demos\Foreach\obj\Debug\09. Foreach.csprojResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\Demos\Foreach\obj\Debug\Foreach.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\Demos\Foreach\obj\Debug\Foreach.pdb

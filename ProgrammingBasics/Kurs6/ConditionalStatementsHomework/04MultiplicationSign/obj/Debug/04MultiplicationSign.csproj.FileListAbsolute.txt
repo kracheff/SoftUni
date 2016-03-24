@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.csprojResolveAssemblyReference.cache

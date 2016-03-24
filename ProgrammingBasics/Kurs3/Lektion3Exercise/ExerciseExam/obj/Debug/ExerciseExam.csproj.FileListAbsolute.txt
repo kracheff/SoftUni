@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\ExerciseExam\bin\Debug\ExerciseExam.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\ExerciseExam\obj\Debug\ExerciseExam.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\ExerciseExam\bin\Debug\ExerciseExam.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\ExerciseExam\bin\Debug\ExerciseExam.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\ExerciseExam\obj\Debug\ExerciseExam.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\ExerciseExam\obj\Debug\ExerciseExam.pdb

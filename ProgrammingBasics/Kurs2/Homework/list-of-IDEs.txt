@@ -1,0 +1,35 @@
+1. Microsoft Visual Studio
+
+- Perfect for casual users as well as experienced developers
+- Visual Studio has Intellisense that helps writig code quickliy and reduces typing errors
+- Automatically formats code like placing automatically brackets, tab indents etc.
+- Has a free Comunity version, Professional version and Enterprise version.
+
+2. Eclipse
+
+- It is considered as one of the best alternatives of Visual Studio
+- Support more programming languages than the VS
+- More customizable interface and features
+- Compiles code
+- Free license
+
+3. Netbeans
+
+- Combines many different programming languages
+- Compiles code
+- Free license
+- Comes with a Java server called GlassFish that can be deployed on the computer for testing environment
+- Comes with editors, code analyzers and converters
+- Provides an analysis tool to identify and fix bugs in Java code
+
+4. IntelliJ
+
+- Another good IDE for web, mobile and enterprise development
+- Supports numerous languages
+- Allows deployment of the application to the cloud from the IDE itself
+
+5. CodeLite
+
+- Considered the best IDE for Linux OS
+- Supports C, C++, PHP and JavaScript languages
+- Supports syntax highlighting and code completion

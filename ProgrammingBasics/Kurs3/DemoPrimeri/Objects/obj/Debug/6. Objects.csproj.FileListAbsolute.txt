@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Objects\bin\Debug\Objects.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Objects\bin\Debug\Objects.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Objects\obj\Debug\6. Objects.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Objects\obj\Debug\Objects.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Objects\obj\Debug\Objects.pdb

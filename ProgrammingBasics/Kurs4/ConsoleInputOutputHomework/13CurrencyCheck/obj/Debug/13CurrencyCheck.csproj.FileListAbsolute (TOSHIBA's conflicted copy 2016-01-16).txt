@@ -1,0 +1,3 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\13CurrencyCheck\bin\Debug\13CurrencyCheck.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\13CurrencyCheck\obj\Debug\13CurrencyCheck.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\13CurrencyCheck\bin\Debug\13CurrencyCheck.exe.config

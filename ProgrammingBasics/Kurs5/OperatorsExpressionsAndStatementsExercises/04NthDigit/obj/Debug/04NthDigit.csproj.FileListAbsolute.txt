@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\04NthDigit\bin\Debug\04NthDigit.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\04NthDigit\bin\Debug\04NthDigit.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\04NthDigit\bin\Debug\04NthDigit.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\04NthDigit\obj\Debug\04NthDigit.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\04NthDigit\obj\Debug\04NthDigit.pdb

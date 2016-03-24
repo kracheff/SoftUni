@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\Risuvane\bin\Debug\Risuvane.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\Risuvane\bin\Debug\Risuvane.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\Risuvane\bin\Debug\Risuvane.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\Risuvane\obj\Debug\Risuvane.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\Risuvane\obj\Debug\Risuvane.pdb

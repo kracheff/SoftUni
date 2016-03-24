@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\EncodedAnswers\bin\Debug\EncodedAnswers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\EncodedAnswers\bin\Debug\EncodedAnswers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\EncodedAnswers\bin\Debug\EncodedAnswers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\EncodedAnswers\obj\Debug\EncodedAnswers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\EncodedAnswers\obj\Debug\EncodedAnswers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\EncodedAnswers\obj\Debug\EncodedAnswers.pdb

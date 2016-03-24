@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache

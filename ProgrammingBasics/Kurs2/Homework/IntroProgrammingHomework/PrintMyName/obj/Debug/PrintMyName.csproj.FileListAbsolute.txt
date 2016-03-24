@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintMyName\bin\Debug\PrintMyName.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintMyName\obj\Debug\PrintMyName.pdb

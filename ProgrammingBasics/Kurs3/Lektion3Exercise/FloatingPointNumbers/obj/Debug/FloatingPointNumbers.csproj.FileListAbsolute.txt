@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\FloatingPointNumbers\bin\Debug\FloatingPointNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\FloatingPointNumbers\bin\Debug\FloatingPointNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\FloatingPointNumbers\bin\Debug\FloatingPointNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\FloatingPointNumbers\obj\Debug\FloatingPointNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\FloatingPointNumbers\obj\Debug\FloatingPointNumbers.pdb

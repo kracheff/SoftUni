@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\FourFactors\bin\Debug\FourFactors.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\FourFactors\bin\Debug\FourFactors.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\FourFactors\bin\Debug\FourFactors.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\FourFactors\obj\Debug\FourFactors.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\FourFactors\obj\Debug\FourFactors.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\FourFactors\obj\Debug\FourFactors.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SnakeNew\bin\Debug\SnakeNew.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SnakeNew\bin\Debug\SnakeNew.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SnakeNew\bin\Debug\SnakeNew.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SnakeNew\obj\Debug\SnakeNew.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SnakeNew\obj\Debug\SnakeNew.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SnakeNew\obj\Debug\SnakeNew.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SnakeNew\bin\Debug\SnakeNew.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SnakeNew\obj\Debug\SnakeNew.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SnakeNew\obj\Debug\SnakeNew.pdb

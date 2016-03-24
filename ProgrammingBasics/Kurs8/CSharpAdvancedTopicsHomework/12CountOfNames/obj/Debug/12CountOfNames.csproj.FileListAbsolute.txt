@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\12CountOfNames\bin\Debug\12CountOfNames.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\12CountOfNames\bin\Debug\12CountOfNames.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\12CountOfNames\bin\Debug\12CountOfNames.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\12CountOfNames\obj\Debug\12CountOfNames.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\12CountOfNames\obj\Debug\12CountOfNames.pdb

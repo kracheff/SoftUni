@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\DetectiveBoev\bin\Debug\DetectiveBoev.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\DetectiveBoev\bin\Debug\DetectiveBoev.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\DetectiveBoev\bin\Debug\DetectiveBoev.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\DetectiveBoev\obj\Debug\DetectiveBoev.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\DetectiveBoev\obj\Debug\DetectiveBoev.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\DetectiveBoev\obj\Debug\DetectiveBoev.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb

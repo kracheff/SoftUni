@@ -1,0 +1,6 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\test2\bin\Debug\test2.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\test2\bin\Debug\test2.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\test2\bin\Debug\test2.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\test2\obj\Debug\test2.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\test2\obj\Debug\test2.pdb

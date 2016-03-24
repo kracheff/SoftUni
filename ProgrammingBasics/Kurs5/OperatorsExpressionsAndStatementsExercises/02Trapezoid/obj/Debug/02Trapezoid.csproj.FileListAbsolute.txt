@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\02Trapezoid\bin\Debug\02Trapezoid.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\02Trapezoid\bin\Debug\02Trapezoid.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\02Trapezoid\bin\Debug\02Trapezoid.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\02Trapezoid\obj\Debug\02Trapezoid.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsAndStatementsExercises\02Trapezoid\obj\Debug\02Trapezoid.pdb

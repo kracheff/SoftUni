@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\WiggleWiggle\bin\Debug\WiggleWiggle.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\WiggleWiggle\obj\Debug\WiggleWiggle.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\WiggleWiggle\obj\Debug\WiggleWiggle.pdb

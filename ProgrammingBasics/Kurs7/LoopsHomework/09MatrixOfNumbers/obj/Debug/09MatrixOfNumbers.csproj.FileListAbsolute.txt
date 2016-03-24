@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.pdb

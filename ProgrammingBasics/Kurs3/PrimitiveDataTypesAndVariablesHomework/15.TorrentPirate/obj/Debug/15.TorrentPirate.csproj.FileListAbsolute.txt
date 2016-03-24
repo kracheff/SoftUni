@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\15.TorrentPirate\bin\Debug\15.TorrentPirate.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\15.TorrentPirate\bin\Debug\15.TorrentPirate.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\15.TorrentPirate\bin\Debug\15.TorrentPirate.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\15.TorrentPirate\obj\Debug\15.TorrentPirate.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\15.TorrentPirate\obj\Debug\15.TorrentPirate.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\15.TorrentPirate\obj\Debug\15.TorrentPirate.pdb

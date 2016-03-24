@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

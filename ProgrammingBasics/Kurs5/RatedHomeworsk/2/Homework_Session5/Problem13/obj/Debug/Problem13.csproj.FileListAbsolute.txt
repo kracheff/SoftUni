@@ -1,0 +1,8 @@
+C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem13\bin\Debug\Problem13.exe.config
+C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem13\bin\Debug\Problem13.exe
+C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem13\bin\Debug\Problem13.pdb
+C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem13\obj\Debug\Problem13.exe
+C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem13\obj\Debug\Problem13.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\2\Homework_Session5\Problem13\bin\Debug\Problem13.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\2\Homework_Session5\Problem13\obj\Debug\Problem13.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\2\Homework_Session5\Problem13\obj\Debug\Problem13.pdb

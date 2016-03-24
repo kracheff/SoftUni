@@ -1,0 +1,8 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.pdb

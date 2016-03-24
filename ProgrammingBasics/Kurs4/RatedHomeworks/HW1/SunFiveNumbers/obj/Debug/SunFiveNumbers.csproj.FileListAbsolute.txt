@@ -1,0 +1,11 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SunFiveNumbers\bin\Debug\SunFiveNumbers.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SunFiveNumbers\bin\Debug\SunFiveNumbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SunFiveNumbers\bin\Debug\SunFiveNumbers.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SunFiveNumbers\obj\Debug\SunFiveNumbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SunFiveNumbers\obj\Debug\SunFiveNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SunFiveNumbers\bin\Debug\SunFiveNumbers.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SunFiveNumbers\obj\Debug\SunFiveNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SunFiveNumbers\obj\Debug\SunFiveNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SunFiveNumbers\bin\Debug\SunFiveNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SunFiveNumbers\bin\Debug\SunFiveNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SunFiveNumbers\obj\Debug\SunFiveNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\05SortingNumbers\bin\Debug\05SortingNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\05SortingNumbers\obj\Debug\05SortingNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\05SortingNumbers\bin\Debug\05SortingNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\05SortingNumbers\bin\Debug\05SortingNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\05SortingNumbers\obj\Debug\05SortingNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\05SortingNumbers\obj\Debug\05SortingNumbers.pdb

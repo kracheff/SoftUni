@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\3PrimesInGivenRange\bin\Debug\3PrimesInGivenRange.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\3PrimesInGivenRange\bin\Debug\3PrimesInGivenRange.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\3PrimesInGivenRange\bin\Debug\3PrimesInGivenRange.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\3PrimesInGivenRange\obj\Debug\3PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\3PrimesInGivenRange\obj\Debug\3PrimesInGivenRange.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\3PrimesInGivenRange\obj\Debug\3PrimesInGivenRange.pdb

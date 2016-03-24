@@ -1,0 +1,8 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\KnightPath\bin\Debug\KnightPath.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\KnightPath\bin\Debug\KnightPath.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\KnightPath\bin\Debug\KnightPath.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\KnightPath\obj\Debug\KnightPath.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\KnightPath\obj\Debug\KnightPath.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\KnightPath\obj\Debug\KnightPath.pdb

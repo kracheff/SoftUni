@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\07Problem7Calculation\bin\Debug\07Problem7Calculation.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\07Problem7Calculation\bin\Debug\07Problem7Calculation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\07Problem7Calculation\bin\Debug\07Problem7Calculation.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\07Problem7Calculation\obj\Debug\07Problem7Calculation.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\07Problem7Calculation\obj\Debug\07Problem7Calculation.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\07Problem7Calculation\obj\Debug\07Problem7Calculation.csprojResolveAssemblyReference.cache

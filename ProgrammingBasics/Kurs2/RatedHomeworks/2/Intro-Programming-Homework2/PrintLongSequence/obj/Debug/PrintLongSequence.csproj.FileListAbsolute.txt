@@ -1,0 +1,12 @@
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintLongSequence\obj\Debug\PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintLongSequence\obj\Debug\PrintLongSequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\2.NumbersNotDivisibleBy_3And7\bin\Debug\2.NumbersNotDivisibleBy_3And7.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\2.NumbersNotDivisibleBy_3And7\bin\Debug\2.NumbersNotDivisibleBy_3And7.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\2.NumbersNotDivisibleBy_3And7\bin\Debug\2.NumbersNotDivisibleBy_3And7.pdb
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\2.NumbersNotDivisibleBy_3And7\obj\Debug\2.NumbersNotDivisibleBy_3And7.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\2.NumbersNotDivisibleBy_3And7\obj\Debug\2.NumbersNotDivisibleBy_3And7.pdb
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\2.NumbersNotDivisibleBy_3And7\obj\Debug\2.NumbersNotDivisibleBy_3And7.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\2.NumbersNotDivisibleBy_3And7\bin\Debug\2.NumbersNotDivisibleBy_3And7.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\2.NumbersNotDivisibleBy_3And7\obj\Debug\2.NumbersNotDivisibleBy_3And7.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\2.NumbersNotDivisibleBy_3And7\obj\Debug\2.NumbersNotDivisibleBy_3And7.pdb

@@ -1,0 +1,6 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\6.CalculateDivideFactorial\bin\Debug\6.CalculateDivideFactorial.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\6.CalculateDivideFactorial\obj\Debug\6.CalculateDivideFactorial.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\6.CalculateDivideFactorial\obj\Debug\6.CalculateDivideFactorial.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\6.CalculateDivideFactorial\bin\Debug\6.CalculateDivideFactorial.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\6.CalculateDivideFactorial\obj\Debug\6.CalculateDivideFactorial.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\6.CalculateDivideFactorial\obj\Debug\6.CalculateDivideFactorial.pdb

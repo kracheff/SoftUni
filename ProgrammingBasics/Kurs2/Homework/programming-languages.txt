@@ -1,0 +1,52 @@
+1. Java
+
+- one of the most popular programming languages
+- core foundation for developing Android apps
+- runs across multiple software platforms (so called WORA /write once, run anywhere)
+- easy to learn syntax
+
+2. JavaScript
+
+- a very popular programming language
+- it is not related to Java, despite its name
+- used mainly in web browsers for creating web applications, online games, interactive elements on websites etc.
+
+3. C#
+
+- high level programming language
+- easy to write and read
+- used to create only Microsoft applications
+- very similar to Java in both syntax and nature
+
+4. C
+
+- developed in 1972
+- despite its age it is still very popular among programmers
+- low level programming language
+- can be used with different operating systems allthough it must be specifically compiled depending on the system
+- very fast but difficult for memory management
+
+5. C++
+
+- replacement for the original C programming language
+- brings object-orientation, which helps in larger projects
+- used for developing games and office applications
+- also a very fast programming language
+
+6. Python
+
+- simple syntax
+- used for general programming purposes
+- rich framework from web applications to data analyses
+- practically has no weeknesses
+
+7. PHP
+
+- used for web developing web pages
+- big sites like Facebook and Yahoo use it
+- an open-source language with many of free pre-built modules
+
+8. SQL
+
+- database query language (used for database management)
+- usually it is not used alone but gets invoked by other programming language when dealing with the backend of an app.

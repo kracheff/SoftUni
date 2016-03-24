@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\02PrimeChecker\bin\Debug\02PrimeChecker.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\02PrimeChecker\obj\Debug\02PrimeChecker.pdb

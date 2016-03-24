@@ -1,0 +1,9 @@
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\bin\Debug\3.Min_Max_SumAndAverageOfN_Numbers.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\bin\Debug\3.Min_Max_SumAndAverageOfN_Numbers.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\bin\Debug\3.Min_Max_SumAndAverageOfN_Numbers.pdb
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\obj\Debug\3.Min_Max_SumAndAverageOfN_Numbers.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\obj\Debug\3.Min_Max_SumAndAverageOfN_Numbers.exe
+c:\users\user1\documents\visual studio 2015\Projects\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\obj\Debug\3.Min_Max_SumAndAverageOfN_Numbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\bin\Debug\3.Min_Max_SumAndAverageOfN_Numbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\obj\Debug\3.Min_Max_SumAndAverageOfN_Numbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\3.Min_Max_SumAndAverageOfN_Numbers\obj\Debug\3.Min_Max_SumAndAverageOfN_Numbers.pdb

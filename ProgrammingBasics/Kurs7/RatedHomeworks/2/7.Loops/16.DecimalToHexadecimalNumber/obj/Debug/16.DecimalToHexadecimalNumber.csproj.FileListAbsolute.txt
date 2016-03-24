@@ -1,0 +1,8 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.pdb

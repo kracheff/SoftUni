@@ -1,0 +1,9 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\bin\Debug\13CompoundInterest.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\bin\Debug\13CompoundInterest.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\bin\Debug\13CompoundInterest.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\obj\Debug\13CompoundInterest.csprojResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\obj\Debug\13CompoundInterest.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\obj\Debug\13CompoundInterest.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\bin\Debug\13CompoundInterest.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\obj\Debug\13CompoundInterest.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\13CompoundInterest\obj\Debug\13CompoundInterest.pdb

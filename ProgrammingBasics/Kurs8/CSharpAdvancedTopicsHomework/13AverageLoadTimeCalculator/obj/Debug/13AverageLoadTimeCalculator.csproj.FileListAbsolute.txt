@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\CSharpAdvancedTopicsHomework\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache

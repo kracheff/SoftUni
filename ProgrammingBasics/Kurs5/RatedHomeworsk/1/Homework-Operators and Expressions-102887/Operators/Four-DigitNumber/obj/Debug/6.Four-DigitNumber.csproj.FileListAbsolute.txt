@@ -1,0 +1,8 @@
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe.config
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\Four-DigitNumber\bin\Debug\Four-DigitNumber.pdb
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\Four-DigitNumber\obj\Debug\Four-DigitNumber.exe
+c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\Four-DigitNumber\obj\Debug\Four-DigitNumber.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\1\Homework-Operators and Expressions-102887\Operators\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\1\Homework-Operators and Expressions-102887\Operators\Four-DigitNumber\obj\Debug\Four-DigitNumber.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\1\Homework-Operators and Expressions-102887\Operators\Four-DigitNumber\obj\Debug\Four-DigitNumber.pdb

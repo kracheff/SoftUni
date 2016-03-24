@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\04Rectangles\bin\Debug\04Rectangles.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\04Rectangles\bin\Debug\04Rectangles.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\04Rectangles\bin\Debug\04Rectangles.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\04Rectangles\obj\Debug\04Rectangles.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\04Rectangles\obj\Debug\04Rectangles.pdb

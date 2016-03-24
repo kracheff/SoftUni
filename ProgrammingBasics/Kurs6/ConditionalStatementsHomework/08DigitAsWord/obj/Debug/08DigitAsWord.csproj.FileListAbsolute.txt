@@ -1,0 +1,5 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

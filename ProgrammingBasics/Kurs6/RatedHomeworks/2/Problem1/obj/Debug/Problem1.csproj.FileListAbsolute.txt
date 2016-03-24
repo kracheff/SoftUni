@@ -1,0 +1,9 @@
+C:\Users\H\Desktop\Homework Conditional Statements\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\H\Desktop\Homework Conditional Statements\Problem1\bin\Debug\Problem1.exe
+C:\Users\H\Desktop\Homework Conditional Statements\Problem1\bin\Debug\Problem1.pdb
+C:\Users\H\Desktop\Homework Conditional Statements\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\H\Desktop\Homework Conditional Statements\Problem1\obj\Debug\Problem1.exe
+C:\Users\H\Desktop\Homework Conditional Statements\Problem1\obj\Debug\Problem1.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\2\Problem1\bin\Debug\Problem1.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\2\Problem1\obj\Debug\Problem1.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\2\Problem1\obj\Debug\Problem1.pdb

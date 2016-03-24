@@ -1,0 +1,7 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.CodeAnalysisLog.xml
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.lastcodeanalysissucceeded

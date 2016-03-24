@@ -1,0 +1,98 @@
+CodeLite
+
+An Open-Source, cross-platform IDfor C+ and C++ coding languages, CodeLite works on all major platforms. CodeLite offers a variety of features, including two built-in completion engines, compilers, refactoring, code navigation and more.
+
+Languages Supported: C, C++
+
+Key Features:
+
+Supports syntax highlighting for other languages
+Built-in support for GCC/clang/VC++
+Built-in GDB support
+Subversion and GIT plug-ins
+2 code completion engines – both will run simultaneously
+RAD Tool for wxWidgets
+Locals tree, threads view, memory view
+
+=========================================
+
+Code::Blocks
+
+Code::Blocks, an extensible and fully configurable IDE designed to support its users most demanding needs, supports C, C++ and Fortran. It provides a consistent look, feel and operation across all platforms for seamless transitions between work spaces, and it’s built around a plug-in framework, providing a multitude of options for extension. It’s open-source and offers cross-platform functionality with no hidden costs.
+
+Languages Supported: C, C++, Fortran
+
+Key Features:
+
+Uses wxWidgets
+Written in C++
+No interpreted languages or proprietary languages needed
+Extensible using pre-built or custom-built plug-ins
+Multiple compiler support
+Debugger with full breakpoints support
+Syntax highlighting and code completion
+External, customizable tools
+Tabbed interface with open files list for quick navigation
+Task management for multiple users
+
+==========================================
+
+DialogBlocks
+
+A cross-platform GUI coding assistant, DialogBlocks is a simple tool to easily edit dialogs and generate code. If you need to build wxWidgets GUIs, DialogBlocks makes it fast and simple. Create professional dialogs, wizards and frames for deployment on Windows, Linux, and Mac, or any other supported wxWidgets platform.
+
+Languages Supported: C++, Python
+
+Key Features:
+
+Create complex wizards and property sheet dialogs
+Build frames with menu and toolbars
+Integrate context-sensitive help and tooltips
+Build wxWidgets
+Keyboard shortcuts
+Double-click to edit many labels and default values in pop-up windows
+Effortlessly add event handlers
+
+====================================
+
+Eclipse
+
+Many development frameworks are built on Eclipse, a free, open-source editor that was initially a Java environment but a variety of plug-ins have extended its capabilities considerably. The Eclipse Standard 4.3.2 version, for instance, includes the Eclipse Platform along with the tools required to debug it, plus Java and Plugin Development Tooling and Git and CVS support. If your requirements are different, you can choose from a variety of Eclipse Package Solutions, including tools for Java developers, Scout Developers, RCP and RAP Developers and more.
+
+Languages Supported: C, C++, Python, Perl, PHP, Java, Ruby and more
+
+Key Features:
+
+Variety of Package Solutions for multi-language support
+Easily switch context between perspectives
+Mylyn provides a task-focused UI with system-tray notifications
+Eclipse Java Development Tools
+Eclipse Git Team Provider
+Eclipse Plugin Development Environment
+Excellent tooling options for JEE projects
+JUnit integration
+Ample plug-ins for extended capabilities
+
+========================================
+
+NetBeans
+
+An intuitive, drag-and-drop interface with project templates, binary and static libraries, and many useful functions to make your life simpler, NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and Assembler files, with GNU Debugger Integration and code assistance, NetBeans is a functional IDE for editing existing projects, building on templates or building from scratch on most leading platforms. There are also multiple NetBeans Enterprise IDE Download Bundles with options that support several additional technologies, including Java, PHP, HTML5 and more.
+
+Languages Supported: C, C++, C++11, Fortan, Assembler
+
+Key Features:
+
+Remote development
+Works on Windows, Linux, OS X, and Solaris platforms
+Dynamic and static libraries
+Drag-and-drop binary files to create new projects
+Flexible Run and Debug commands
+Multi-session GNU gdb debugger integration
+Set a variety of breakpoints and view in Breakpoints window
+Refactorings in Editor, Class View and Navigator
+Unit testing capability
+Qt Toolkit support
+Supports Oracle Solaris Studio,  GNU, CLang/LLVM, Cygwin, and MinGW compilers
+
+==============================================

@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Tests\bin\Debug\Tests.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Tests\bin\Debug\Tests.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Tests\bin\Debug\Tests.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Tests\obj\Debug\Tests.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Tests\obj\Debug\Tests.pdb

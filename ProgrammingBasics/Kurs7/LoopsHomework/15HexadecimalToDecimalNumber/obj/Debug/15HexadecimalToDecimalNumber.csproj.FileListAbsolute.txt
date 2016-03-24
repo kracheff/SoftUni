@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.pdb

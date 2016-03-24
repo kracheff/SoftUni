@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\10.HorribleCode\bin\Debug\10.HorribleCode.exe.config
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\10.HorribleCode\bin\Debug\10.HorribleCode.exe
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\10.HorribleCode\bin\Debug\10.HorribleCode.pdb
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\10.HorribleCode\obj\Debug\10.HorribleCode.exe
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\10.HorribleCode\obj\Debug\10.HorribleCode.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\10.HorribleCode\bin\Debug\10.HorribleCode.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\10.HorribleCode\obj\Debug\10.HorribleCode.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\10.HorribleCode\obj\Debug\10.HorribleCode.pdb

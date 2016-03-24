@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\test\bin\Debug\test.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\test\bin\Debug\test.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\test\bin\Debug\test.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\test\obj\Debug\test.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\test\obj\Debug\test.pdb

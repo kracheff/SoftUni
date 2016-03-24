@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\NakovsMatching\bin\Debug\NakovsMatching.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\NakovsMatching\obj\Debug\NakovsMatching.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\NakovsMatching\bin\Debug\NakovsMatching.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\NakovsMatching\bin\Debug\NakovsMatching.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\NakovsMatching\obj\Debug\NakovsMatching.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\NakovsMatching\obj\Debug\NakovsMatching.pdb

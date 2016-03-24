@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\BitsAtCrossroads\bin\Debug\BitsAtCrossroads.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\BitsAtCrossroads\bin\Debug\BitsAtCrossroads.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\BitsAtCrossroads\bin\Debug\BitsAtCrossroads.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\BitsAtCrossroads\obj\Debug\BitsAtCrossroads.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\BitsAtCrossroads\obj\Debug\BitsAtCrossroads.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\BitsAtCrossroads\obj\Debug\BitsAtCrossroads.pdb

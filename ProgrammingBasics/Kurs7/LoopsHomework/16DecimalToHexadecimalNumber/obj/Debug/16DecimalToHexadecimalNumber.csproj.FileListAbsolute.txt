@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\16DecimalToHexadecimalNumber\bin\Debug\16DecimalToHexadecimalNumber.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\16DecimalToHexadecimalNumber\bin\Debug\16DecimalToHexadecimalNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\16DecimalToHexadecimalNumber\bin\Debug\16DecimalToHexadecimalNumber.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\16DecimalToHexadecimalNumber\obj\Debug\16DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\16DecimalToHexadecimalNumber\obj\Debug\16DecimalToHexadecimalNumber.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\16DecimalToHexadecimalNumber\obj\Debug\16DecimalToHexadecimalNumber.pdb

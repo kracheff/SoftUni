@@ -1,0 +1,8 @@
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.pdb
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\02.BonusScore\obj\Debug\02.BonusScore.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\02.BonusScore\obj\Debug\02.BonusScore.pdb

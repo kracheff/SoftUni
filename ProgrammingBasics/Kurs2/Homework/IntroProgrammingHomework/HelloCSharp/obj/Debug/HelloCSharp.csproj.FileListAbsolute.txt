@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs2\Homework\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb

@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.pdb

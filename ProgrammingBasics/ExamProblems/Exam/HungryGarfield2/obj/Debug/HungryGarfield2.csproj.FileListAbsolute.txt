@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\HungryGarfield2\bin\Debug\HungryGarfield2.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\HungryGarfield2\bin\Debug\HungryGarfield2.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\HungryGarfield2\bin\Debug\HungryGarfield2.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\HungryGarfield2\obj\Debug\HungryGarfield2.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\HungryGarfield2\obj\Debug\HungryGarfield2.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\HungryGarfield2\obj\Debug\HungryGarfield2.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\2Power\bin\Debug\2Power.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\2Power\bin\Debug\2Power.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\2Power\bin\Debug\2Power.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\2Power\obj\Debug\2Power.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\2Power\obj\Debug\2Power.pdb

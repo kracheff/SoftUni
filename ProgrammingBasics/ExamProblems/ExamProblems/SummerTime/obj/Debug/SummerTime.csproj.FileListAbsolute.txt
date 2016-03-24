@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\SummerTime\bin\Debug\SummerTime.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\SummerTime\bin\Debug\SummerTime.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\SummerTime\bin\Debug\SummerTime.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\SummerTime\obj\Debug\SummerTime.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\SummerTime\obj\Debug\SummerTime.pdb

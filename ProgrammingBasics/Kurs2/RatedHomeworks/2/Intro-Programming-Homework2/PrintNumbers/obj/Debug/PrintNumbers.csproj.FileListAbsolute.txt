@@ -1,0 +1,11 @@
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

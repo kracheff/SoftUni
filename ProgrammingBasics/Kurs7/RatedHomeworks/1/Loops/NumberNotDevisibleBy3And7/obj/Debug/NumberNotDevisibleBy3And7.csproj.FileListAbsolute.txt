@@ -1,0 +1,5 @@
+C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\NumberNotDevisibleBy3And7\bin\Debug\NumberNotDevisibleBy3And7.exe.config
+C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\NumberNotDevisibleBy3And7\bin\Debug\NumberNotDevisibleBy3And7.exe
+C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\NumberNotDevisibleBy3And7\bin\Debug\NumberNotDevisibleBy3And7.pdb
+C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\NumberNotDevisibleBy3And7\obj\Debug\NumberNotDevisibleBy3And7.exe
+C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\NumberNotDevisibleBy3And7\obj\Debug\NumberNotDevisibleBy3And7.pdb

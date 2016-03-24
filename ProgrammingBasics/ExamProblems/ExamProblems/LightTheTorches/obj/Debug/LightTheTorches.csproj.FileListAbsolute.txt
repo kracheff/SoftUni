@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\LightTheTorches\bin\Debug\LightTheTorches.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\LightTheTorches\bin\Debug\LightTheTorches.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\LightTheTorches\obj\Debug\LightTheTorches.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\LightTheTorches\obj\Debug\LightTheTorches.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\LightTheTorches\obj\Debug\LightTheTorches.pdb

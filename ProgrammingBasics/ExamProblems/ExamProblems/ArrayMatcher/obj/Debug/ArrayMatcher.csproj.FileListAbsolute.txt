@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\ArrayMatcher\obj\Debug\ArrayMatcher.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\ArrayMatcher\obj\Debug\ArrayMatcher.pdb

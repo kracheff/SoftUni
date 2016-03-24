@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Console\bin\Debug\Console.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Console\bin\Debug\Console.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Console\bin\Debug\Console.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Console\obj\Debug\Console.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\Console\obj\Debug\Console.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Console\bin\Debug\Console.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Console\obj\Debug\Console.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\Console\obj\Debug\Console.pdb

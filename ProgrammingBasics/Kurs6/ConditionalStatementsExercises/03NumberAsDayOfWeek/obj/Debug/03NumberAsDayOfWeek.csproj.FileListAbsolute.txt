@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\03NumberAsDayOfWeek\bin\Debug\03NumberAsDayOfWeek.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\03NumberAsDayOfWeek\bin\Debug\03NumberAsDayOfWeek.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\03NumberAsDayOfWeek\bin\Debug\03NumberAsDayOfWeek.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\03NumberAsDayOfWeek\obj\Debug\03NumberAsDayOfWeek.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\03NumberAsDayOfWeek\obj\Debug\03NumberAsDayOfWeek.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\03NumberAsDayOfWeek\obj\Debug\03NumberAsDayOfWeek.pdb

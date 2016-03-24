@@ -1,0 +1,4 @@
+- C# is a programming language developed by Microsoft for .NET
+- .NET is a framework built by Microsoft. 
+- MS .NET Framework is a large collection of libraries that can be used from the c# code
+or the code of other languages that are supported by the .NET

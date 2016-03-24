@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\bin\Debug\07PointInCircle.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\obj\Debug\07PointInCircle.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\bin\Debug\07PointInCircle.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\bin\Debug\07PointInCircle.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\obj\Debug\07PointInCircle.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\obj\Debug\07PointInCircle.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\bin\Debug\07PointInCircle.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\obj\Debug\07PointInCircle.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\obj\Debug\07PointInCircle.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\bin\Debug\07PointInCircle.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\bin\Debug\07PointInCircle.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\07PointInCircle\obj\Debug\07PointInCircle.csprojResolveAssemblyReference.cache

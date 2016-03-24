@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.pdb

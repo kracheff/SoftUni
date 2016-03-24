@@ -1,0 +1,8 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\obj\Debug\05ThirdDigitIs7.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\obj\Debug\05ThirdDigitIs7.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\obj\Debug\05ThirdDigitIs7.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\OperatorsExpressionsStatementsHomework\05ThirdDigitIs7\obj\Debug\05ThirdDigitIs7.pdb

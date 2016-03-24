@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\SaltAndPeppers2\bin\Debug\SaltAndPeppers2.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\SaltAndPeppers2\bin\Debug\SaltAndPeppers2.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\SaltAndPeppers2\bin\Debug\SaltAndPeppers2.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\SaltAndPeppers2\obj\Debug\SaltAndPeppers2.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\SaltAndPeppers2\obj\Debug\SaltAndPeppers2.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\SaltAndPeppers2\obj\Debug\SaltAndPeppers2.csprojResolveAssemblyReference.cache

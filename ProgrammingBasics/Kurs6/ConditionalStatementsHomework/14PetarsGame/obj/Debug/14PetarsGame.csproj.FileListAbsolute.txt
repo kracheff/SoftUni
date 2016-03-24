@@ -1,0 +1,12 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\bin\Debug\14PetarsGame.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\bin\Debug\14PetarsGame.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\bin\Debug\14PetarsGame.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\bin\Debug\14PetarsGame.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\obj\Debug\14PetarsGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\obj\Debug\14PetarsGame.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\obj\Debug\14PetarsGame.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\obj\Debug\14PetarsGame.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\obj\Debug\14PetarsGame.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\bin\Debug\14PetarsGame.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\bin\Debug\14PetarsGame.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\14PetarsGame\obj\Debug\14PetarsGame.csprojResolveAssemblyReference.cache

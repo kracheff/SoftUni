@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\08CatalanNumbers\obj\Debug\08CatalanNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\08CatalanNumbers\obj\Debug\08CatalanNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsHomework\08CatalanNumbers\obj\Debug\08CatalanNumbers.pdb

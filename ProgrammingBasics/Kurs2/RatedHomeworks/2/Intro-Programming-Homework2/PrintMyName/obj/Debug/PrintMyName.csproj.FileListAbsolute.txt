@@ -1,0 +1,8 @@
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\PrintMyName\obj\Debug\PrintMyName.pdb

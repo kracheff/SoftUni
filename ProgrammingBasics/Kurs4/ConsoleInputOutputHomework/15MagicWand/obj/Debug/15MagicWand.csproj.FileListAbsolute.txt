@@ -1,0 +1,12 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\bin\Debug\15MagicWand.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\bin\Debug\15MagicWand.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\bin\Debug\15MagicWand.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\obj\Debug\15MagicWand.csprojResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\obj\Debug\15MagicWand.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\obj\Debug\15MagicWand.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\bin\Debug\15MagicWand.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\obj\Debug\15MagicWand.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\obj\Debug\15MagicWand.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\obj\Debug\15MagicWand.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\bin\Debug\15MagicWand.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs4\ConsoleInputOutputHomework\15MagicWand\bin\Debug\15MagicWand.pdb

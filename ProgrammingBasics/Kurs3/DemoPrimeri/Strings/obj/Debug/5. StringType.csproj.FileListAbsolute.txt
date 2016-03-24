@@ -1,0 +1,4 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Strings\bin\Debug\Strings.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Strings\bin\Debug\Strings.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Strings\obj\Debug\Strings.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Strings\obj\Debug\Strings.pdb

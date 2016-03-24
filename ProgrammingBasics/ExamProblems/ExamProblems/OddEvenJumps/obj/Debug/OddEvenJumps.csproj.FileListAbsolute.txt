@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\OddEvenJumps\bin\Debug\OddEvenJumps.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\OddEvenJumps\bin\Debug\OddEvenJumps.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\OddEvenJumps\bin\Debug\OddEvenJumps.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\OddEvenJumps\obj\Debug\OddEvenJumps.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\OddEvenJumps\obj\Debug\OddEvenJumps.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\ExamProblems\OddEvenJumps\obj\Debug\OddEvenJumps.pdb

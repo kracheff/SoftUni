@@ -1,0 +1,9 @@
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.csprojResolveAssemblyReference.cache
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb

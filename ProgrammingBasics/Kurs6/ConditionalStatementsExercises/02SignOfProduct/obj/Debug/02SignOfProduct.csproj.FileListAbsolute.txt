@@ -1,0 +1,8 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\02SignOfProduct\bin\Debug\02SignOfProduct.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\02SignOfProduct\bin\Debug\02SignOfProduct.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\02SignOfProduct\bin\Debug\02SignOfProduct.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\02SignOfProduct\obj\Debug\02SignOfProduct.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs5\ConditionalStatementsExercises\02SignOfProduct\obj\Debug\02SignOfProduct.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsExercises\02SignOfProduct\bin\Debug\02SignOfProduct.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsExercises\02SignOfProduct\obj\Debug\02SignOfProduct.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsExercises\02SignOfProduct\obj\Debug\02SignOfProduct.pdb

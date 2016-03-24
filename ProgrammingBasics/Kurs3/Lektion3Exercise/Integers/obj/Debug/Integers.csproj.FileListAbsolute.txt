@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Integers\bin\Debug\Integers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Integers\obj\Debug\Integers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Integers\bin\Debug\Integers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Integers\bin\Debug\Integers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Integers\obj\Debug\Integers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\Lektion3Exercise\Integers\obj\Debug\Integers.pdb

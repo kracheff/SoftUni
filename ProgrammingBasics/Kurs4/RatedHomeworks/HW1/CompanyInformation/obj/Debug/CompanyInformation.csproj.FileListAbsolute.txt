@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CompanyInformation\bin\Debug\CompanyInformation.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CompanyInformation\bin\Debug\CompanyInformation.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CompanyInformation\bin\Debug\CompanyInformation.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CompanyInformation\obj\Debug\CompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CompanyInformation\obj\Debug\CompanyInformation.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\CompanyInformation\obj\Debug\CompanyInformation.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CompanyInformation\bin\Debug\CompanyInformation.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CompanyInformation\obj\Debug\CompanyInformation.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CompanyInformation\obj\Debug\CompanyInformation.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CompanyInformation\bin\Debug\CompanyInformation.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CompanyInformation\bin\Debug\CompanyInformation.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\CompanyInformation\obj\Debug\CompanyInformation.csprojResolveAssemblyReference.cache

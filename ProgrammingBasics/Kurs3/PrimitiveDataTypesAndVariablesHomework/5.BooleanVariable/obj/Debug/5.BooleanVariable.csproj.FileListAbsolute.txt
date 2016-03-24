@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

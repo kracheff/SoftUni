@@ -1,0 +1,8 @@
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\ReformCSharpCode\bin\Debug\ReformCSharpCode.exe.config
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\ReformCSharpCode\bin\Debug\ReformCSharpCode.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\ReformCSharpCode\bin\Debug\ReformCSharpCode.pdb
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\ReformCSharpCode\obj\Debug\ReformCSharpCode.exe
+C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\ReformCSharpCode\obj\Debug\ReformCSharpCode.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\ReformCSharpCode\bin\Debug\ReformCSharpCode.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\ReformCSharpCode\obj\Debug\ReformCSharpCode.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\ReformCSharpCode\obj\Debug\ReformCSharpCode.pdb

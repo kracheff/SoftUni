@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\PassionDays2\bin\Debug\PassionDays2.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\PassionDays2\bin\Debug\PassionDays2.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\PassionDays2\bin\Debug\PassionDays2.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\PassionDays2\obj\Debug\PassionDays2.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\PassionDays2\obj\Debug\PassionDays2.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\ExamProblems\Exam\PassionDays2\obj\Debug\PassionDays2.pdb

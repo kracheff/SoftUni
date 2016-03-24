@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumThreeNumbers\bin\Debug\SumThreeNumbers.exe.config
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumThreeNumbers\bin\Debug\SumThreeNumbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumThreeNumbers\bin\Debug\SumThreeNumbers.pdb
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumThreeNumbers\obj\Debug\SumThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumThreeNumbers\obj\Debug\SumThreeNumbers.exe
+C:\Users\Mitko\Desktop\Projects\ExerciseJanuary\SumThreeNumbers\obj\Debug\SumThreeNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumThreeNumbers\bin\Debug\SumThreeNumbers.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumThreeNumbers\obj\Debug\SumThreeNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumThreeNumbers\obj\Debug\SumThreeNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumThreeNumbers\bin\Debug\SumThreeNumbers.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumThreeNumbers\bin\Debug\SumThreeNumbers.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs4\RatedHomeworks\HW1\SumThreeNumbers\obj\Debug\SumThreeNumbers.csprojResolveAssemblyReference.cache

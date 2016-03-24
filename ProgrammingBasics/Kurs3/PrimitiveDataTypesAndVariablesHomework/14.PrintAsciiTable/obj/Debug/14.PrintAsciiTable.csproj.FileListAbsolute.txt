@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.pdb

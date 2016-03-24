@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe.config
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.pdb
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb

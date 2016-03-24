@@ -1,0 +1,5 @@
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\15Sunlight\bin\Debug\15Sunlight.exe.config
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\15Sunlight\bin\Debug\15Sunlight.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\15Sunlight\bin\Debug\15Sunlight.pdb
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\15Sunlight\obj\Debug\15Sunlight.exe
+D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\ConditionalStatementsHomework\15Sunlight\obj\Debug\15Sunlight.pdb

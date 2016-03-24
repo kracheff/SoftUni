@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\LiveDemo\bin\Debug\LiveDemo.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\LiveDemo\bin\Debug\LiveDemo.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\LiveDemo\bin\Debug\LiveDemo.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\LiveDemo\obj\Debug\1PrintingNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\LiveDemo\obj\Debug\LiveDemo.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Exercise\LiveDemo\obj\Debug\LiveDemo.pdb

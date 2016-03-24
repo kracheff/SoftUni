@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe.config
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.pdb
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.exe
+D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\PrimitiveDataTypesAndVariablesHomework\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.pdb
