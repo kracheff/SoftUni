@@ -1,0 +1,3 @@
+Sum of line chars 824
+Sum of line chars 989
+Sum of line chars 1035
