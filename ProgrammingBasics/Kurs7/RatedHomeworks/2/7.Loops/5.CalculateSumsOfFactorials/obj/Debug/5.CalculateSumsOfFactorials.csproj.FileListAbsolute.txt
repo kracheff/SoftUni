@@ -1,9 +1,0 @@
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\5.CalculateSumsOfFactorials\bin\Debug\5.CalculateSumsOfFactorials.exe.config
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\5.CalculateSumsOfFactorials\bin\Debug\5.CalculateSumsOfFactorials.exe
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\5.CalculateSumsOfFactorials\bin\Debug\5.CalculateSumsOfFactorials.pdb
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\5.CalculateSumsOfFactorials\obj\Debug\5.CalculateSumsOfFactorials.csprojResolveAssemblyReference.cache
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\5.CalculateSumsOfFactorials\obj\Debug\5.CalculateSumsOfFactorials.exe
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\5.CalculateSumsOfFactorials\obj\Debug\5.CalculateSumsOfFactorials.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\5.CalculateSumsOfFactorials\bin\Debug\5.CalculateSumsOfFactorials.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\5.CalculateSumsOfFactorials\obj\Debug\5.CalculateSumsOfFactorials.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\5.CalculateSumsOfFactorials\obj\Debug\5.CalculateSumsOfFactorials.pdb

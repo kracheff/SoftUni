@@ -1,8 +1,0 @@
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb

@@ -1,6 +1,0 @@
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

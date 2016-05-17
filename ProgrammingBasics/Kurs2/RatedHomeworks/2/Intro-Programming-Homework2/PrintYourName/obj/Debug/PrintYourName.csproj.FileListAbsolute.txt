@@ -1,6 +1,0 @@
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintYourName\bin\Debug\PrintYourName.exe.config
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintYourName\bin\Debug\PrintYourName.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintYourName\bin\Debug\PrintYourName.pdb
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintYourName\obj\Debug\PrintYourName.csprojResolveAssemblyReference.cache
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintYourName\obj\Debug\PrintYourName.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\PrintYourName\obj\Debug\PrintYourName.pdb

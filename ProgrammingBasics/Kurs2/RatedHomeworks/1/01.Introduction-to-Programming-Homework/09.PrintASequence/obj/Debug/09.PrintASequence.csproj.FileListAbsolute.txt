@@ -1,8 +1,0 @@
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.pdb
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.pdb

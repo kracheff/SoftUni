@@ -1,9 +1,0 @@
-c:\users\user1\documents\visual studio 2015\Projects\7.Loops\1.NumbersFrom_1_to_N\bin\Debug\1.NumbersFrom_1_to_N.exe.config
-c:\users\user1\documents\visual studio 2015\Projects\7.Loops\1.NumbersFrom_1_to_N\bin\Debug\1.NumbersFrom_1_to_N.exe
-c:\users\user1\documents\visual studio 2015\Projects\7.Loops\1.NumbersFrom_1_to_N\bin\Debug\1.NumbersFrom_1_to_N.pdb
-c:\users\user1\documents\visual studio 2015\Projects\7.Loops\1.NumbersFrom_1_to_N\obj\Debug\1.NumbersFrom_1_to_N.csprojResolveAssemblyReference.cache
-c:\users\user1\documents\visual studio 2015\Projects\7.Loops\1.NumbersFrom_1_to_N\obj\Debug\1.NumbersFrom_1_to_N.exe
-c:\users\user1\documents\visual studio 2015\Projects\7.Loops\1.NumbersFrom_1_to_N\obj\Debug\1.NumbersFrom_1_to_N.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\1.NumbersFrom_1_to_N\bin\Debug\1.NumbersFrom_1_to_N.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\1.NumbersFrom_1_to_N\obj\Debug\1.NumbersFrom_1_to_N.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\1.NumbersFrom_1_to_N\obj\Debug\1.NumbersFrom_1_to_N.pdb

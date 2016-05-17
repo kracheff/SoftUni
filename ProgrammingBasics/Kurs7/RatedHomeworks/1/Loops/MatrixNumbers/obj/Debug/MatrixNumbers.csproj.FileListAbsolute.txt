@@ -1,6 +1,0 @@
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\MatrixNumbers\bin\Debug\MatrixNumbers.exe.config
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\MatrixNumbers\bin\Debug\MatrixNumbers.exe
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\MatrixNumbers\bin\Debug\MatrixNumbers.pdb
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\MatrixNumbers\obj\Debug\MatrixNumbers.exe
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\MatrixNumbers\obj\Debug\MatrixNumbers.pdb
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\MatrixNumbers\obj\Debug\MatrixNumbers.csprojResolveAssemblyReference.cache

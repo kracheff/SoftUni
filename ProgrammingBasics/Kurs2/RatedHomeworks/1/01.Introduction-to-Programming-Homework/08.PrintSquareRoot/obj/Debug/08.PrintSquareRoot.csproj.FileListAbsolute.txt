@@ -1,8 +1,0 @@
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\bin\Debug\08.PrintSquareRoot.exe.config
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\bin\Debug\08.PrintSquareRoot.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\bin\Debug\08.PrintSquareRoot.pdb
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\obj\Debug\08.PrintSquareRoot.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\obj\Debug\08.PrintSquareRoot.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\bin\Debug\08.PrintSquareRoot.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\obj\Debug\08.PrintSquareRoot.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\obj\Debug\08.PrintSquareRoot.pdb

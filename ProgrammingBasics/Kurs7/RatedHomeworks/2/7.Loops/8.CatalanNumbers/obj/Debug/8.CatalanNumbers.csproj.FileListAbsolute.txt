@@ -1,9 +1,0 @@
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\8.CatalanNumbers\bin\Debug\8.CatalanNumbers.exe.config
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\8.CatalanNumbers\bin\Debug\8.CatalanNumbers.exe
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\8.CatalanNumbers\bin\Debug\8.CatalanNumbers.pdb
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.csprojResolveAssemblyReference.cache
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.exe
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\8.CatalanNumbers\bin\Debug\8.CatalanNumbers.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\8.CatalanNumbers\obj\Debug\8.CatalanNumbers.pdb

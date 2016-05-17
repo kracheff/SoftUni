@@ -1,8 +1,0 @@
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
-C:\Users\pc\Desktop\01.Introduction-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\1\01.Introduction-to-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

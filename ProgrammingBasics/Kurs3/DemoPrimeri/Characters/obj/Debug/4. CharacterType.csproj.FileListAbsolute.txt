@@ -1,4 +1,0 @@
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Characters\bin\Debug\Characters.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Characters\bin\Debug\Characters.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Characters\obj\Debug\Characters.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\Characters\obj\Debug\Characters.pdb

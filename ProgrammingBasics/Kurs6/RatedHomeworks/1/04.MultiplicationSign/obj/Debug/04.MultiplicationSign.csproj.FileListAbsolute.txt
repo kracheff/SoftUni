@@ -1,9 +1,0 @@
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

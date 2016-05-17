@@ -1,8 +1,0 @@
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\09.PlayWitnIntDoubleAndString\bin\Debug\09.PlayWitnIntDoubleAndString.exe.config
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\09.PlayWitnIntDoubleAndString\bin\Debug\09.PlayWitnIntDoubleAndString.exe
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\09.PlayWitnIntDoubleAndString\bin\Debug\09.PlayWitnIntDoubleAndString.pdb
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\09.PlayWitnIntDoubleAndString\obj\Debug\09.PlayWitnIntDoubleAndString.exe
-D:\. STUFF\SOFTWARE UNIVERSITY\6.Conditional Statements\Conditional-Statements-Homework\09.PlayWitnIntDoubleAndString\obj\Debug\09.PlayWitnIntDoubleAndString.pdb
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\09.PlayWitnIntDoubleAndString\bin\Debug\09.PlayWitnIntDoubleAndString.exe.config
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\09.PlayWitnIntDoubleAndString\obj\Debug\09.PlayWitnIntDoubleAndString.exe
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs6\RatedHomeworks\1\09.PlayWitnIntDoubleAndString\obj\Debug\09.PlayWitnIntDoubleAndString.pdb

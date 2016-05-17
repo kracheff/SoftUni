@@ -1,4 +1,0 @@
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\BooleanType\bin\Debug\BooleanType.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\BooleanType\bin\Debug\BooleanType.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\BooleanType\obj\Debug\BooleanType.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\BooleanType\obj\Debug\BooleanType.pdb

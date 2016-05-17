@@ -1,5 +1,0 @@
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Demos\DefiningSimpleClasses\bin\Debug\DefiningSimpleClasses.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Demos\DefiningSimpleClasses\bin\Debug\DefiningSimpleClasses.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Demos\DefiningSimpleClasses\obj\Debug\12. DefiningSimpleClasses.csprojResolveAssemblyReference.cache
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Demos\DefiningSimpleClasses\obj\Debug\DefiningSimpleClasses.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs8\Demos\DefiningSimpleClasses\obj\Debug\DefiningSimpleClasses.pdb

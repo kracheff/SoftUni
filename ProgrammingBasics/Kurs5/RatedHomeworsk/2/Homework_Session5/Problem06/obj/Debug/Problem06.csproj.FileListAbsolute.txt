@@ -1,9 +1,0 @@
-C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem06\bin\Debug\Problem06.exe.config
-C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem06\obj\Debug\Problem06.csprojResolveAssemblyReference.cache
-C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem06\bin\Debug\Problem06.exe
-C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem06\bin\Debug\Problem06.pdb
-C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem06\obj\Debug\Problem06.exe
-C:\Users\milen\Desktop\SoftUni\5 Session\HomeWork\Homework_Session5\Problem06\obj\Debug\Problem06.pdb
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\2\Homework_Session5\Problem06\bin\Debug\Problem06.exe.config
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\2\Homework_Session5\Problem06\obj\Debug\Problem06.exe
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\2\Homework_Session5\Problem06\obj\Debug\Problem06.pdb

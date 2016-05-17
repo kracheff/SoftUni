@@ -1,9 +1,0 @@
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csprojResolveAssemblyReference.cache
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\04BasicQueueOperations\bin\Debug\04BasicQueueOperations.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\04BasicQueueOperations\bin\Debug\04BasicQueueOperations.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\04BasicQueueOperations\bin\Debug\04BasicQueueOperations.pdb
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\04BasicQueueOperations\obj\Debug\04BasicQueueOperations.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\04BasicQueueOperations\obj\Debug\04BasicQueueOperations.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\04BasicQueueOperations\obj\Debug\04BasicQueueOperations.pdb
+D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\04BasicQueueOperations\bin\Debug\04BasicQueueOperations.exe.config
+D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\04BasicQueueOperations\obj\Debug\04BasicQueueOperations.exe
+D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\04BasicQueueOperations\obj\Debug\04BasicQueueOperations.pdb

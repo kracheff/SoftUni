@@ -1,2 +1,0 @@
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\Rectangles\bin\Debug\Rectangles.exe.config
-D:\My Documents\My Dropbox\SoftUni\ProgrammingBasics\Kurs5\RatedHomeworsk\1\Homework-Operators and Expressions-102887\Operators\Rectangles\bin\Debug\Rectangles.exe.config

@@ -1,9 +1,0 @@
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateROW\bin\Debug\CalculateROW.exe.config
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateROW\bin\Debug\CalculateROW.exe
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateROW\bin\Debug\CalculateROW.pdb
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateROW\obj\Debug\CalculateROW.csprojResolveAssemblyReference.cache
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateROW\obj\Debug\CalculateROW.exe
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateROW\obj\Debug\CalculateROW.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\1\Loops\CalculateROW\bin\Debug\CalculateROW.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\1\Loops\CalculateROW\obj\Debug\CalculateROW.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\1\Loops\CalculateROW\obj\Debug\CalculateROW.pdb

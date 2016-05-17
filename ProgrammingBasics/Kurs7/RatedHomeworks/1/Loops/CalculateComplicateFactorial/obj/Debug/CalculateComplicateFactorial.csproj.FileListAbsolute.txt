@@ -1,8 +1,0 @@
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateComplicateFactorial\bin\Debug\CalculateComplicateFactorial.exe.config
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateComplicateFactorial\bin\Debug\CalculateComplicateFactorial.exe
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateComplicateFactorial\bin\Debug\CalculateComplicateFactorial.pdb
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateComplicateFactorial\obj\Debug\CalculateComplicateFactorial.exe
-C:\Users\Ivesto M\Desktop\SoftUni\Programming Basics\Homeworks\HomeWork 7\Loops\CalculateComplicateFactorial\obj\Debug\CalculateComplicateFactorial.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\1\Loops\CalculateComplicateFactorial\bin\Debug\CalculateComplicateFactorial.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\1\Loops\CalculateComplicateFactorial\obj\Debug\CalculateComplicateFactorial.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\1\Loops\CalculateComplicateFactorial\obj\Debug\CalculateComplicateFactorial.pdb

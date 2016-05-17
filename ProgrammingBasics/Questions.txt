@@ -1,4 +1,0 @@
-1. В демо примерите Primitive-Data-Types-and-Variables т. 7 Assigning Values, защо secondValue =5 при положение че сме казали, че 
-seconfvalue = firstValue, a по-долу казваме че firstValue = thirdValue = 3
-
-2. Подравняване в центъра при използване на Console.WriteLine("|{0, -40}|{1, -10}|", ..)

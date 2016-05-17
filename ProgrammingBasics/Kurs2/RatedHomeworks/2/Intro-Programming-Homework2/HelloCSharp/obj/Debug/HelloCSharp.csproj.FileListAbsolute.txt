@@ -1,9 +1,0 @@
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\HelloCSharp\bin\Debug\HelloCSharp.exe.config
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\HelloCSharp\bin\Debug\HelloCSharp.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\HelloCSharp\bin\Debug\HelloCSharp.pdb
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\HelloCSharp\obj\Debug\HelloCSharp.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\HelloCSharp\obj\Debug\HelloCSharp.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\HelloCSharp\bin\Debug\HelloCSharp.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\HelloCSharp\obj\Debug\HelloCSharp.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\HelloCSharp\obj\Debug\HelloCSharp.pdb

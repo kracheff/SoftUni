@@ -1,3 +1,0 @@
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PointInACircle\bin\Debug\PointInACircle.exe.config
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PointInACircle\obj\Debug\PointInACircle.exe
-c:\users\tsvetelin\documents\visual studio 2015\Projects\Operators\PointInACircle\obj\Debug\PointInACircle.pdb

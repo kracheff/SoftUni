@@ -1,8 +1,0 @@
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.exe.config
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.exe
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.pdb
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.exe
-C:\Users\user1\Documents\Visual Studio 2015\Projects\7.Loops\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\RatedHomeworks\2\7.Loops\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.pdb

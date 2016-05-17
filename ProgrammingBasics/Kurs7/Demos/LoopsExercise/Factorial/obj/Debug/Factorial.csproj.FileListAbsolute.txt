@@ -1,7 +1,0 @@
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs6\LoopsExercise\Factorial\bin\Debug\Factorial.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsExercise\Factorial\bin\Debug\Factorial.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsExercise\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsExercise\Factorial\bin\Debug\Factorial.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsExercise\Factorial\bin\Debug\Factorial.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsExercise\Factorial\obj\Debug\Factorial.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs7\LoopsExercise\Factorial\obj\Debug\Factorial.pdb

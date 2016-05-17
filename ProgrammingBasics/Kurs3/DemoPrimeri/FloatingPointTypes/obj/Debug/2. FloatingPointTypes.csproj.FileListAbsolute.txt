@@ -1,5 +1,0 @@
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\FloatingPointTypes\bin\Debug\FloatingPointTypes.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\FloatingPointTypes\bin\Debug\FloatingPointTypes.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\FloatingPointTypes\obj\Debug\2. FloatingPointTypes.csprojResolveAssemblyReference.cache
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\FloatingPointTypes\obj\Debug\FloatingPointTypes.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\FloatingPointTypes\obj\Debug\FloatingPointTypes.pdb

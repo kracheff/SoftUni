@@ -1,8 +1,0 @@
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\SquareRoot\bin\Debug\SquareRoot.exe.config
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\SquareRoot\bin\Debug\SquareRoot.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\SquareRoot\bin\Debug\SquareRoot.pdb
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\SquareRoot\obj\Debug\SquareRoot.exe
-C:\Users\KRASI\documents\visual studio 2015\Projects\Intro-Programming-Homework2\SquareRoot\obj\Debug\SquareRoot.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\SquareRoot\bin\Debug\SquareRoot.exe.config
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\SquareRoot\obj\Debug\SquareRoot.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs2\RatedHomeworks\2\Intro-Programming-Homework2\SquareRoot\obj\Debug\SquareRoot.pdb

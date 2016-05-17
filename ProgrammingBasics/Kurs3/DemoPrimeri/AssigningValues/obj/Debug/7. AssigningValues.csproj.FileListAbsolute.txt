@@ -1,5 +1,0 @@
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\AssigningValues\bin\Debug\AssigningValues.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\AssigningValues\bin\Debug\AssigningValues.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\AssigningValues\obj\Debug\7. AssigningValues.csprojResolveAssemblyReference.cache
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\AssigningValues\obj\Debug\AssigningValues.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\AssigningValues\obj\Debug\AssigningValues.pdb

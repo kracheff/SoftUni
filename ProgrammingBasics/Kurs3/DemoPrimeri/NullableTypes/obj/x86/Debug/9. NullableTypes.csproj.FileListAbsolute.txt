@@ -1,5 +1,0 @@
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\NullableTypes\bin\Debug\NullableTypes.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\NullableTypes\bin\Debug\NullableTypes.pdb
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\NullableTypes\obj\x86\Debug\9. NullableTypes.csprojResolveAssemblyReference.cache
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\NullableTypes\obj\x86\Debug\NullableTypes.exe
-D:\Dropbox\SoftUni\ProgrammingBasics\Kurs3\DemoPrimeri\NullableTypes\obj\x86\Debug\NullableTypes.pdb
