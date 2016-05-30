@@ -1,0 +1,7 @@
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\06TruckTour\bin\Debug\06TruckTour.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\06TruckTour\bin\Debug\06TruckTour.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\06TruckTour\bin\Debug\06TruckTour.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\06TruckTour\bin\Debug\06TruckTour.pdb
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\06TruckTour\obj\Debug\06TruckTour.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\06TruckTour\obj\Debug\06TruckTour.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\06TruckTour\obj\Debug\06TruckTour.pdb

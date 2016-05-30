@@ -1,9 +1,0 @@
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\05CalcSequenceWithQueue\bin\Debug\05CalcSequenceWithQueue.exe.config
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\05CalcSequenceWithQueue\bin\Debug\05CalcSequenceWithQueue.exe
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\05CalcSequenceWithQueue\bin\Debug\05CalcSequenceWithQueue.pdb
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\05CalcSequenceWithQueue\obj\Debug\05CalcSequenceWithQueue.csprojResolveAssemblyReference.cache
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\05CalcSequenceWithQueue\obj\Debug\05CalcSequenceWithQueue.exe
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\05CalcSequenceWithQueue\obj\Debug\05CalcSequenceWithQueue.pdb
-D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\05CalcSequenceWithQueue\bin\Debug\05CalcSequenceWithQueue.exe.config
-D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\05CalcSequenceWithQueue\obj\Debug\05CalcSequenceWithQueue.exe
-D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\05CalcSequenceWithQueue\obj\Debug\05CalcSequenceWithQueue.pdb

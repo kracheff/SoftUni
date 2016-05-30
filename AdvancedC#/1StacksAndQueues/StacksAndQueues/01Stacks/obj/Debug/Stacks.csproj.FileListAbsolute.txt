@@ -1,6 +1,0 @@
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\Stacks\bin\Debug\Stacks.exe.config
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\Stacks\bin\Debug\Stacks.exe
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\Stacks\bin\Debug\Stacks.pdb
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\Stacks\obj\Debug\Stacks.csprojResolveAssemblyReference.cache
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\Stacks\obj\Debug\Stacks.exe
-D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\Stacks\obj\Debug\Stacks.pdb

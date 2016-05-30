@@ -1,3 +1,0 @@
-D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\01Stacks\bin\Debug\Stacks.exe.config
-D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\01Stacks\obj\Debug\Stacks.exe
-D:\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueues\01Stacks\obj\Debug\Stacks.pdb

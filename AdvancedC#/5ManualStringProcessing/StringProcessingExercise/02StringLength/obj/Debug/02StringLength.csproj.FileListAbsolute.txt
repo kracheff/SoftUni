@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\02StringLength\bin\Debug\02StringLength.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\02StringLength\bin\Debug\02StringLength.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\02StringLength\bin\Debug\02StringLength.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\02StringLength\obj\Debug\02StringLength.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\02StringLength\obj\Debug\02StringLength.pdb

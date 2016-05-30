@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\04BaseTenToBaseN\bin\Debug\04BaseTenToBaseN.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\04BaseTenToBaseN\bin\Debug\04BaseTenToBaseN.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\04BaseTenToBaseN\bin\Debug\04BaseTenToBaseN.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\04BaseTenToBaseN\obj\Debug\04BaseTenToBaseN.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\04BaseTenToBaseN\obj\Debug\04BaseTenToBaseN.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\04BaseTenToBaseN\obj\Debug\04BaseTenToBaseN.pdb

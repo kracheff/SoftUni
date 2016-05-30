@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\07SumBigNumbers\bin\Debug\07SumBigNumbers.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\07SumBigNumbers\bin\Debug\07SumBigNumbers.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\07SumBigNumbers\bin\Debug\07SumBigNumbers.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\07SumBigNumbers\obj\Debug\07SumBigNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\07SumBigNumbers\obj\Debug\07SumBigNumbers.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\07SumBigNumbers\obj\Debug\07SumBigNumbers.pdb

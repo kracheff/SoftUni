@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\07BalancedParentheses\bin\Debug\07BalancedParentheses.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\07BalancedParentheses\bin\Debug\07BalancedParentheses.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\07BalancedParentheses\bin\Debug\07BalancedParentheses.pdb
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\07BalancedParentheses\obj\Debug\07BalancedParentheses.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\07BalancedParentheses\obj\Debug\07BalancedParentheses.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\07BalancedParentheses\obj\Debug\07BalancedParentheses.pdb

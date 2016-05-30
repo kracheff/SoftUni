@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\04CountSymbols\bin\Debug\04CountSymbols.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\04CountSymbols\bin\Debug\04CountSymbols.exe
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\04CountSymbols\bin\Debug\04CountSymbols.pdb
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\04CountSymbols\obj\Debug\04CountSymbols.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\04CountSymbols\obj\Debug\04CountSymbols.exe
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\04CountSymbols\obj\Debug\04CountSymbols.pdb

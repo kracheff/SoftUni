@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\03FormattingNumbes\bin\Debug\03FormattingNumbes.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\03FormattingNumbes\bin\Debug\03FormattingNumbes.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\03FormattingNumbes\bin\Debug\03FormattingNumbes.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\03FormattingNumbes\obj\Debug\03FormattingNumbes.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\03FormattingNumbes\obj\Debug\03FormattingNumbes.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\03FormattingNumbes\obj\Debug\03FormattingNumbes.pdb

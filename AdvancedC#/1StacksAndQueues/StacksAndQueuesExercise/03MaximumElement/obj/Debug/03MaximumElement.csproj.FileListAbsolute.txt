@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\03MaximumElement\bin\Debug\03MaximumElement.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\03MaximumElement\bin\Debug\03MaximumElement.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\03MaximumElement\bin\Debug\03MaximumElement.pdb
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\03MaximumElement\obj\Debug\03MaximumElement.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\03MaximumElement\obj\Debug\03MaximumElement.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\Stacks\03MaximumElement\obj\Debug\03MaximumElement.pdb
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\03MaximumElement\bin\Debug\03MaximumElement.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\03MaximumElement\obj\Debug\03MaximumElement.exe
+D:\Dropbox\SoftUni\AdvancedC#\1StacksAndQueues\StacksAndQueuesExercise\03MaximumElement\obj\Debug\03MaximumElement.pdb

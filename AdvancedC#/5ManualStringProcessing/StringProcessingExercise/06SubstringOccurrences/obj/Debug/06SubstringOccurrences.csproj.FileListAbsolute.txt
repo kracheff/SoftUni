@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\06SubstringOccurrences\bin\Debug\06SubstringOccurrences.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\06SubstringOccurrences\bin\Debug\06SubstringOccurrences.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\06SubstringOccurrences\bin\Debug\06SubstringOccurrences.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\06SubstringOccurrences\obj\Debug\06SubstringOccurrences.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\06SubstringOccurrences\obj\Debug\06SubstringOccurrences.pdb

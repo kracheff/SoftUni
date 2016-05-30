@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\06MinerTask\bin\Debug\06MinerTask.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\06MinerTask\bin\Debug\06MinerTask.exe
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\06MinerTask\bin\Debug\06MinerTask.pdb
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\06MinerTask\obj\Debug\06MinerTask.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\06MinerTask\obj\Debug\06MinerTask.exe
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\06MinerTask\obj\Debug\06MinerTask.pdb

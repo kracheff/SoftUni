@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\05BaseNToBaseTen\bin\Debug\05BaseNToBaseTen.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\05BaseNToBaseTen\bin\Debug\05BaseNToBaseTen.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\05BaseNToBaseTen\bin\Debug\05BaseNToBaseTen.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\05BaseNToBaseTen\obj\Debug\05BaseNToBaseTen.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\05BaseNToBaseTen\obj\Debug\05BaseNToBaseTen.pdb

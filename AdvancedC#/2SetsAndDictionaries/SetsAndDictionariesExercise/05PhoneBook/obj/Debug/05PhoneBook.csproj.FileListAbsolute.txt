@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\05PhoneBook\bin\Debug\05PhoneBook.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\05PhoneBook\bin\Debug\05PhoneBook.exe
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\05PhoneBook\bin\Debug\05PhoneBook.pdb
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\05PhoneBook\obj\Debug\05PhoneBook.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\05PhoneBook\obj\Debug\05PhoneBook.exe
+D:\Dropbox\SoftUni\AdvancedC#\2SetsAndDictionaries\SetsAndDictionariesExercise\05PhoneBook\obj\Debug\05PhoneBook.pdb
