@@ -8,8 +8,8 @@ public class SumBigNumbers
 {
     public static void Main()
     {
-        string firstNumber = Console.ReadLine().Trim();
-        string secondNumber = Console.ReadLine().Trim();
+        string firstNumber = Console.ReadLine().TrimStart(new char[] { '0' });
+        string secondNumber = Console.ReadLine().TrimStart(new char[] { '0' });
 
         if (firstNumber.Length > secondNumber.Length)
         {

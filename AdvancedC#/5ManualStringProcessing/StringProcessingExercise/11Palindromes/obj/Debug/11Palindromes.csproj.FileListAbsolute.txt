@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\11Palindromes\bin\Debug\11Palindromes.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\11Palindromes\bin\Debug\11Palindromes.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\11Palindromes\bin\Debug\11Palindromes.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\11Palindromes\obj\Debug\11Palindromes.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\11Palindromes\obj\Debug\11Palindromes.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\11Palindromes\obj\Debug\11Palindromes.pdb

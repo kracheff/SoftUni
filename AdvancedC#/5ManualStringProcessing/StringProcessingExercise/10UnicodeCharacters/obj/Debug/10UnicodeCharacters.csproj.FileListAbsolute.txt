@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\10UnicodeCharacters\bin\Debug\10UnicodeCharacters.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\10UnicodeCharacters\bin\Debug\10UnicodeCharacters.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\10UnicodeCharacters\bin\Debug\10UnicodeCharacters.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\10UnicodeCharacters\obj\Debug\10UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\10UnicodeCharacters\obj\Debug\10UnicodeCharacters.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\10UnicodeCharacters\obj\Debug\10UnicodeCharacters.pdb

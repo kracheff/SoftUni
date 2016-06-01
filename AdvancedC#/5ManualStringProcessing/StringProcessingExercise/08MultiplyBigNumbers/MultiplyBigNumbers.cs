@@ -8,7 +8,7 @@ public class MultiplyBigNumbers
 {
     public static void Main()
     {
-        string firstNumber = Console.ReadLine().Trim();
+        string firstNumber = Console.ReadLine().TrimStart(new char[] { '0' });
         byte secondNumber = byte.Parse(Console.ReadLine());
 
         if (firstNumber == "0" || secondNumber == 0 || firstNumber == "")

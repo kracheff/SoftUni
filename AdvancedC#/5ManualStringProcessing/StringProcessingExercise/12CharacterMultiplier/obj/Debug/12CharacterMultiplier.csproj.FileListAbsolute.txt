@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\12CharacterMultiplier\bin\Debug\12CharacterMultiplier.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\12CharacterMultiplier\bin\Debug\12CharacterMultiplier.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\12CharacterMultiplier\bin\Debug\12CharacterMultiplier.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\12CharacterMultiplier\obj\Debug\12CharacterMultiplier.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\12CharacterMultiplier\obj\Debug\12CharacterMultiplier.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\13MagicExchangeableWords\bin\Debug\13MagicExchangeableWords.exe.config
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\13MagicExchangeableWords\bin\Debug\13MagicExchangeableWords.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\13MagicExchangeableWords\bin\Debug\13MagicExchangeableWords.pdb
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\13MagicExchangeableWords\obj\Debug\13MagicExchangeableWords.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\13MagicExchangeableWords\obj\Debug\13MagicExchangeableWords.exe
+D:\Dropbox\SoftUni\AdvancedC#\5ManualStringProcessing\StringProcessingExercise\13MagicExchangeableWords\obj\Debug\13MagicExchangeableWords.pdb
